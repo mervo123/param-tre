@@ -6,7 +6,7 @@ from geopy.distance import geodesic
 import numpy as np
 
 # Configuration de l'API Google Maps
-API_KEY = "AIzaSyCwzw4HN5lG5Rp-fY_lgys4zAO27yL8Fog"
+API_KEY = "API_KEY_WORD"
 BASE_URL = "https://maps.googleapis.com/maps/api/staticmap"
 
 # Dossier de stockage des images
